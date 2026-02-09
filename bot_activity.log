@@ -1,0 +1,586 @@
+2025-12-20 16:53:08,714 - INFO - 🚀 Starting Flask API Server...
+2025-12-20 16:53:08,856 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.10.126:5001
+2025-12-20 16:53:08,857 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-20 16:53:11,717 - INFO - 🚀 Main execution block started.
+2025-12-20 16:53:11,718 - INFO - 🎮 Starting TCP client for ID: 4128631399
+2025-12-20 16:53:14,114 - INFO - Token decoded and processed. Account ID: 13099974979
+2025-12-20 16:53:14,116 - INFO - Final token constructed successfully.
+2025-12-20 16:53:14,259 - INFO - ✅ TCP Bot is online and waiting for commands...
+2025-12-20 16:53:14,260 - INFO - 📋 Checking command queue every 2 seconds...
+2025-12-20 16:53:14,322 - INFO - ✅ Connected to port 39699 Host 202.81.106.143
+2026-02-08 23:11:00,554 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:11:00,588 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5901
+ * Running on http://192.168.1.3:5901
+2026-02-08 23:11:00,589 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-08 23:11:03,554 - INFO - 🚀 Main execution block started.
+2026-02-08 23:11:03,555 - INFO - 🎮 Starting TCP client for ID: 4385953537
+2026-02-08 23:11:03,992 - ERROR - Error in guest_token: 'access_token'
+2026-02-08 23:11:03,996 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:11:03,996 - WARNING - Initiating bot restart...
+2026-02-08 23:11:04,004 - ERROR - Error during pre-restart cleanup: (pid=25255)
+2026-02-08 23:11:05,158 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:11:08,160 - INFO - 🚀 Main execution block started.
+2026-02-08 23:11:08,161 - INFO - 🎮 Starting TCP client for ID: 4385953537
+2026-02-08 23:11:08,540 - ERROR - Error in guest_token: 'access_token'
+2026-02-08 23:11:08,548 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:11:08,549 - WARNING - Initiating bot restart...
+2026-02-08 23:11:08,559 - ERROR - Error during pre-restart cleanup: (pid=25255)
+2026-02-08 23:11:09,604 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:11:12,605 - INFO - 🚀 Main execution block started.
+2026-02-08 23:11:12,605 - INFO - 🎮 Starting TCP client for ID: 4385953537
+2026-02-08 23:11:12,921 - ERROR - Error in guest_token: 'access_token'
+2026-02-08 23:11:12,929 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:11:12,930 - WARNING - Initiating bot restart...
+2026-02-08 23:11:12,939 - ERROR - Error during pre-restart cleanup: (pid=25255)
+2026-02-08 23:11:13,936 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:11:16,937 - INFO - 🚀 Main execution block started.
+2026-02-08 23:11:16,937 - INFO - 🎮 Starting TCP client for ID: 4385953537
+2026-02-08 23:11:17,495 - ERROR - Error in guest_token: 'access_token'
+2026-02-08 23:11:17,508 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:11:17,509 - WARNING - Initiating bot restart...
+2026-02-08 23:11:17,523 - ERROR - Error during pre-restart cleanup: (pid=25255)
+2026-02-08 23:11:18,564 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:11:21,565 - INFO - 🚀 Main execution block started.
+2026-02-08 23:11:21,567 - INFO - 🎮 Starting TCP client for ID: 4385953537
+2026-02-08 23:11:21,977 - ERROR - Error in guest_token: 'access_token'
+2026-02-08 23:11:21,984 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:11:21,985 - WARNING - Initiating bot restart...
+2026-02-08 23:11:21,994 - ERROR - Error during pre-restart cleanup: (pid=25255)
+2026-02-08 23:11:23,345 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:11:26,347 - INFO - 🚀 Main execution block started.
+2026-02-08 23:11:26,347 - INFO - 🎮 Starting TCP client for ID: 4385953537
+2026-02-08 23:11:26,736 - ERROR - Error in guest_token: 'access_token'
+2026-02-08 23:11:26,740 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:11:26,740 - WARNING - Initiating bot restart...
+2026-02-08 23:11:26,745 - ERROR - Error during pre-restart cleanup: (pid=25255)
+2026-02-08 23:11:27,866 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:11:30,867 - INFO - 🚀 Main execution block started.
+2026-02-08 23:11:30,867 - INFO - 🎮 Starting TCP client for ID: 4385953537
+2026-02-08 23:11:31,312 - ERROR - Error in guest_token: 'access_token'
+2026-02-08 23:11:31,318 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:11:31,319 - WARNING - Initiating bot restart...
+2026-02-08 23:11:31,326 - ERROR - Error during pre-restart cleanup: (pid=25255)
+2026-02-08 23:11:32,679 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:11:35,679 - INFO - 🚀 Main execution block started.
+2026-02-08 23:11:35,680 - INFO - 🎮 Starting TCP client for ID: 4385953537
+2026-02-08 23:11:36,017 - ERROR - Error in guest_token: 'access_token'
+2026-02-08 23:11:36,022 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:11:36,022 - WARNING - Initiating bot restart...
+2026-02-08 23:11:36,030 - ERROR - Error during pre-restart cleanup: (pid=25255)
+2026-02-08 23:11:37,333 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:11:40,333 - INFO - 🚀 Main execution block started.
+2026-02-08 23:11:40,334 - INFO - 🎮 Starting TCP client for ID: 4385953537
+2026-02-08 23:11:40,784 - ERROR - Error in guest_token: 'access_token'
+2026-02-08 23:11:40,788 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:11:40,788 - WARNING - Initiating bot restart...
+2026-02-08 23:11:40,795 - ERROR - Error during pre-restart cleanup: (pid=25255)
+2026-02-08 23:11:42,798 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:11:45,799 - INFO - 🚀 Main execution block started.
+2026-02-08 23:11:45,799 - INFO - 🎮 Starting TCP client for ID: 4385953537
+2026-02-08 23:11:46,191 - ERROR - Error in guest_token: 'access_token'
+2026-02-08 23:11:46,198 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:11:46,198 - WARNING - Initiating bot restart...
+2026-02-08 23:11:46,207 - ERROR - Error during pre-restart cleanup: (pid=25255)
+2026-02-08 23:11:47,393 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:11:50,394 - INFO - 🚀 Main execution block started.
+2026-02-08 23:11:50,395 - INFO - 🎮 Starting TCP client for ID: 4385953537
+2026-02-08 23:11:50,808 - ERROR - Error in guest_token: 'access_token'
+2026-02-08 23:11:50,818 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:11:50,819 - WARNING - Initiating bot restart...
+2026-02-08 23:11:50,828 - ERROR - Error during pre-restart cleanup: (pid=25255)
+2026-02-08 23:11:51,870 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:11:54,871 - INFO - 🚀 Main execution block started.
+2026-02-08 23:11:54,872 - INFO - 🎮 Starting TCP client for ID: 4385953537
+2026-02-08 23:11:55,208 - ERROR - Error in guest_token: 'access_token'
+2026-02-08 23:11:55,216 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:11:55,217 - WARNING - Initiating bot restart...
+2026-02-08 23:11:55,225 - ERROR - Error during pre-restart cleanup: (pid=25255)
+2026-02-08 23:11:56,352 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:12:46,295 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:12:46,324 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5901
+ * Running on http://192.168.1.3:5901
+2026-02-08 23:12:46,324 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-08 23:12:49,296 - INFO - 🚀 Main execution block started.
+2026-02-08 23:12:49,297 - INFO - 🎮 Starting TCP client for ID: 4385946076
+2026-02-08 23:12:50,244 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:12:50,256 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:12:50,257 - WARNING - Initiating bot restart...
+2026-02-08 23:12:50,263 - ERROR - Error during pre-restart cleanup: (pid=26484)
+2026-02-08 23:12:51,368 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:12:54,369 - INFO - 🚀 Main execution block started.
+2026-02-08 23:12:54,369 - INFO - 🎮 Starting TCP client for ID: 4385946076
+2026-02-08 23:12:55,154 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:12:55,181 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:12:55,182 - WARNING - Initiating bot restart...
+2026-02-08 23:12:55,195 - ERROR - Error during pre-restart cleanup: (pid=26484)
+2026-02-08 23:12:56,300 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:12:59,301 - INFO - 🚀 Main execution block started.
+2026-02-08 23:12:59,301 - INFO - 🎮 Starting TCP client for ID: 4385946076
+2026-02-08 23:13:00,204 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:13:00,217 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:13:00,217 - WARNING - Initiating bot restart...
+2026-02-08 23:13:00,229 - ERROR - Error during pre-restart cleanup: (pid=26484)
+2026-02-08 23:13:01,348 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:13:04,349 - INFO - 🚀 Main execution block started.
+2026-02-08 23:13:04,350 - INFO - 🎮 Starting TCP client for ID: 4385946076
+2026-02-08 23:13:05,155 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:13:05,163 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:13:05,163 - WARNING - Initiating bot restart...
+2026-02-08 23:13:05,168 - ERROR - Error during pre-restart cleanup: (pid=26484)
+2026-02-08 23:13:06,093 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:13:09,094 - INFO - 🚀 Main execution block started.
+2026-02-08 23:13:09,094 - INFO - 🎮 Starting TCP client for ID: 4385946076
+2026-02-08 23:13:09,858 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:13:09,875 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:13:09,876 - WARNING - Initiating bot restart...
+2026-02-08 23:13:09,887 - ERROR - Error during pre-restart cleanup: (pid=26484)
+2026-02-08 23:13:12,076 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:13:15,077 - INFO - 🚀 Main execution block started.
+2026-02-08 23:13:15,077 - INFO - 🎮 Starting TCP client for ID: 4385946076
+2026-02-08 23:13:15,955 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:13:15,961 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:13:15,961 - WARNING - Initiating bot restart...
+2026-02-08 23:13:15,965 - ERROR - Error during pre-restart cleanup: (pid=26484)
+2026-02-08 23:14:20,762 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:14:20,790 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5901
+ * Running on http://192.168.1.3:5901
+2026-02-08 23:14:20,790 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-08 23:14:23,764 - INFO - 🚀 Main execution block started.
+2026-02-08 23:14:23,765 - INFO - 🎮 Starting TCP client for ID: 4385948676
+2026-02-08 23:14:24,688 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:14:24,718 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:14:24,720 - WARNING - Initiating bot restart...
+2026-02-08 23:14:24,732 - ERROR - Error during pre-restart cleanup: (pid=27101)
+2026-02-08 23:14:25,792 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:14:28,793 - INFO - 🚀 Main execution block started.
+2026-02-08 23:14:28,794 - INFO - 🎮 Starting TCP client for ID: 4385948676
+2026-02-08 23:14:29,642 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:14:29,653 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:14:29,653 - WARNING - Initiating bot restart...
+2026-02-08 23:14:29,665 - ERROR - Error during pre-restart cleanup: (pid=27101)
+2026-02-08 23:14:30,765 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:14:33,766 - INFO - 🚀 Main execution block started.
+2026-02-08 23:14:33,766 - INFO - 🎮 Starting TCP client for ID: 4385948676
+2026-02-08 23:14:34,713 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:14:34,721 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:14:34,722 - WARNING - Initiating bot restart...
+2026-02-08 23:14:34,732 - ERROR - Error during pre-restart cleanup: (pid=27101)
+2026-02-08 23:14:37,743 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:14:40,745 - INFO - 🚀 Main execution block started.
+2026-02-08 23:14:40,745 - INFO - 🎮 Starting TCP client for ID: 4385948676
+2026-02-08 23:14:41,498 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:14:41,509 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:14:41,509 - WARNING - Initiating bot restart...
+2026-02-08 23:14:41,518 - ERROR - Error during pre-restart cleanup: (pid=27101)
+2026-02-08 23:14:42,591 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:14:45,592 - INFO - 🚀 Main execution block started.
+2026-02-08 23:14:45,593 - INFO - 🎮 Starting TCP client for ID: 4385948676
+2026-02-08 23:14:46,385 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:14:46,404 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:14:46,405 - WARNING - Initiating bot restart...
+2026-02-08 23:14:46,415 - ERROR - Error during pre-restart cleanup: (pid=27101)
+2026-02-08 23:14:47,919 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:14:50,920 - INFO - 🚀 Main execution block started.
+2026-02-08 23:14:50,921 - INFO - 🎮 Starting TCP client for ID: 4385948676
+2026-02-08 23:14:51,708 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:14:51,714 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:14:51,715 - WARNING - Initiating bot restart...
+2026-02-08 23:14:51,719 - ERROR - Error during pre-restart cleanup: (pid=27101)
+2026-02-08 23:14:52,937 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:14:55,937 - INFO - 🚀 Main execution block started.
+2026-02-08 23:14:55,938 - INFO - 🎮 Starting TCP client for ID: 4385948676
+2026-02-08 23:14:56,851 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:14:56,877 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:14:56,878 - WARNING - Initiating bot restart...
+2026-02-08 23:14:56,889 - ERROR - Error during pre-restart cleanup: (pid=27101)
+2026-02-08 23:14:57,992 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:15:00,993 - INFO - 🚀 Main execution block started.
+2026-02-08 23:15:00,993 - INFO - 🎮 Starting TCP client for ID: 4385948676
+2026-02-08 23:15:01,863 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:15:01,883 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:15:01,884 - WARNING - Initiating bot restart...
+2026-02-08 23:15:01,894 - ERROR - Error during pre-restart cleanup: (pid=27101)
+2026-02-08 23:15:02,933 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:15:05,934 - INFO - 🚀 Main execution block started.
+2026-02-08 23:15:05,934 - INFO - 🎮 Starting TCP client for ID: 4385948676
+2026-02-08 23:15:06,794 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:15:06,833 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:15:06,833 - WARNING - Initiating bot restart...
+2026-02-08 23:15:06,855 - ERROR - Error during pre-restart cleanup: (pid=27101)
+2026-02-08 23:15:08,949 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:15:11,950 - INFO - 🚀 Main execution block started.
+2026-02-08 23:15:11,951 - INFO - 🎮 Starting TCP client for ID: 4385948676
+2026-02-08 23:15:12,702 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:15:12,708 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:15:12,709 - WARNING - Initiating bot restart...
+2026-02-08 23:15:12,713 - ERROR - Error during pre-restart cleanup: (pid=27101)
+2026-02-08 23:15:14,709 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:15:17,710 - INFO - 🚀 Main execution block started.
+2026-02-08 23:15:17,711 - INFO - 🎮 Starting TCP client for ID: 4385948676
+2026-02-08 23:15:18,465 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:15:18,474 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:15:18,474 - WARNING - Initiating bot restart...
+2026-02-08 23:15:18,480 - ERROR - Error during pre-restart cleanup: (pid=27101)
+2026-02-08 23:15:20,198 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:15:23,199 - INFO - 🚀 Main execution block started.
+2026-02-08 23:15:23,200 - INFO - 🎮 Starting TCP client for ID: 4385948676
+2026-02-08 23:15:24,061 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:15:24,075 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:15:24,075 - WARNING - Initiating bot restart...
+2026-02-08 23:15:24,086 - ERROR - Error during pre-restart cleanup: (pid=27101)
+2026-02-08 23:15:25,649 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:15:28,651 - INFO - 🚀 Main execution block started.
+2026-02-08 23:15:28,651 - INFO - 🎮 Starting TCP client for ID: 4385948676
+2026-02-08 23:15:29,582 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:15:29,599 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:15:29,600 - WARNING - Initiating bot restart...
+2026-02-08 23:15:29,611 - ERROR - Error during pre-restart cleanup: (pid=27101)
+2026-02-08 23:15:30,847 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:16:18,566 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:16:18,593 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5901
+ * Running on http://192.168.1.3:5901
+2026-02-08 23:16:18,594 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-08 23:16:21,566 - INFO - 🚀 Main execution block started.
+2026-02-08 23:16:21,567 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:16:22,430 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:16:22,451 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:16:22,452 - WARNING - Initiating bot restart...
+2026-02-08 23:16:22,480 - ERROR - Error during pre-restart cleanup: (pid=29509)
+2026-02-08 23:16:24,419 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:16:27,420 - INFO - 🚀 Main execution block started.
+2026-02-08 23:16:27,420 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:16:28,192 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:16:28,206 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:16:28,207 - WARNING - Initiating bot restart...
+2026-02-08 23:16:28,224 - ERROR - Error during pre-restart cleanup: (pid=29509)
+2026-02-08 23:16:29,424 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:16:32,425 - INFO - 🚀 Main execution block started.
+2026-02-08 23:16:32,426 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:16:33,317 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:16:33,330 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:16:33,331 - WARNING - Initiating bot restart...
+2026-02-08 23:16:33,338 - ERROR - Error during pre-restart cleanup: (pid=29509)
+2026-02-08 23:16:34,350 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:16:37,351 - INFO - 🚀 Main execution block started.
+2026-02-08 23:16:37,352 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:16:38,141 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:16:38,149 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:16:38,150 - WARNING - Initiating bot restart...
+2026-02-08 23:16:38,158 - ERROR - Error during pre-restart cleanup: (pid=29509)
+2026-02-08 23:16:39,199 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:16:42,200 - INFO - 🚀 Main execution block started.
+2026-02-08 23:16:42,200 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:16:42,998 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:16:43,009 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:16:43,009 - WARNING - Initiating bot restart...
+2026-02-08 23:16:43,021 - ERROR - Error during pre-restart cleanup: (pid=29509)
+2026-02-08 23:16:44,531 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:16:47,535 - INFO - 🚀 Main execution block started.
+2026-02-08 23:16:47,535 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:16:48,482 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:16:48,495 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:16:48,496 - WARNING - Initiating bot restart...
+2026-02-08 23:16:48,525 - ERROR - Error during pre-restart cleanup: (pid=29509)
+2026-02-08 23:16:51,256 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:16:54,258 - INFO - 🚀 Main execution block started.
+2026-02-08 23:16:54,259 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:16:55,156 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:16:55,171 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:16:55,172 - WARNING - Initiating bot restart...
+2026-02-08 23:16:55,190 - ERROR - Error during pre-restart cleanup: (pid=29509)
+2026-02-08 23:16:56,814 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:16:59,815 - INFO - 🚀 Main execution block started.
+2026-02-08 23:16:59,816 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:17:00,648 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:17:00,665 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:17:00,666 - WARNING - Initiating bot restart...
+2026-02-08 23:17:00,671 - ERROR - Error during pre-restart cleanup: (pid=29509)
+2026-02-08 23:17:01,901 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:17:04,902 - INFO - 🚀 Main execution block started.
+2026-02-08 23:17:04,902 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:17:05,668 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:17:05,692 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:17:05,693 - WARNING - Initiating bot restart...
+2026-02-08 23:17:05,705 - ERROR - Error during pre-restart cleanup: (pid=29509)
+2026-02-08 23:17:06,865 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:17:09,866 - INFO - 🚀 Main execution block started.
+2026-02-08 23:17:09,866 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:17:10,109 - INFO - ⚠️ Shutdown signal received. Exiting.
+2026-02-08 23:17:17,824 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:17:17,853 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5901
+ * Running on http://192.168.1.3:5901
+2026-02-08 23:17:17,853 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-08 23:17:20,824 - INFO - 🚀 Main execution block started.
+2026-02-08 23:17:20,825 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:17:21,699 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:17:21,705 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:17:21,706 - WARNING - Initiating bot restart...
+2026-02-08 23:17:21,709 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:17:22,675 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:17:25,676 - INFO - 🚀 Main execution block started.
+2026-02-08 23:17:25,676 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:17:26,531 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:17:26,550 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:17:26,551 - WARNING - Initiating bot restart...
+2026-02-08 23:17:26,560 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:17:27,711 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:17:30,712 - INFO - 🚀 Main execution block started.
+2026-02-08 23:17:30,713 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:17:31,605 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:17:31,624 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:17:31,625 - WARNING - Initiating bot restart...
+2026-02-08 23:17:31,646 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:17:33,571 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:17:36,571 - INFO - 🚀 Main execution block started.
+2026-02-08 23:17:36,572 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:17:37,352 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:17:37,359 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:17:37,359 - WARNING - Initiating bot restart...
+2026-02-08 23:17:37,364 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:17:38,627 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:17:41,630 - INFO - 🚀 Main execution block started.
+2026-02-08 23:17:41,630 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:17:42,482 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:17:42,513 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:17:42,514 - WARNING - Initiating bot restart...
+2026-02-08 23:17:42,527 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:17:43,489 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:17:46,490 - INFO - 🚀 Main execution block started.
+2026-02-08 23:17:46,490 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:17:47,223 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:17:47,230 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:17:47,230 - WARNING - Initiating bot restart...
+2026-02-08 23:17:47,235 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:17:48,219 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:17:51,219 - INFO - 🚀 Main execution block started.
+2026-02-08 23:17:51,220 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:17:51,960 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:17:51,966 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:17:51,967 - WARNING - Initiating bot restart...
+2026-02-08 23:17:51,974 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:17:52,896 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:17:55,897 - INFO - 🚀 Main execution block started.
+2026-02-08 23:17:55,897 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:17:56,666 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:17:56,673 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:17:56,673 - WARNING - Initiating bot restart...
+2026-02-08 23:17:56,677 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:17:57,576 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:18:00,577 - INFO - 🚀 Main execution block started.
+2026-02-08 23:18:00,577 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:18:01,349 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:18:01,356 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:18:01,356 - WARNING - Initiating bot restart...
+2026-02-08 23:18:01,364 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:18:02,462 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:18:05,463 - INFO - 🚀 Main execution block started.
+2026-02-08 23:18:05,463 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:18:06,361 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:18:06,391 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:18:06,392 - WARNING - Initiating bot restart...
+2026-02-08 23:18:06,402 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:18:08,230 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:18:11,230 - INFO - 🚀 Main execution block started.
+2026-02-08 23:18:11,231 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:18:12,122 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:18:12,147 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:18:12,148 - WARNING - Initiating bot restart...
+2026-02-08 23:18:12,160 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:18:13,561 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:18:16,562 - INFO - 🚀 Main execution block started.
+2026-02-08 23:18:16,562 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:18:17,367 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:18:17,380 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:18:17,381 - WARNING - Initiating bot restart...
+2026-02-08 23:18:17,388 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:18:19,101 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:18:22,102 - INFO - 🚀 Main execution block started.
+2026-02-08 23:18:22,103 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:18:22,830 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:18:22,838 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:18:22,838 - WARNING - Initiating bot restart...
+2026-02-08 23:18:22,845 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:18:23,771 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:18:26,772 - INFO - 🚀 Main execution block started.
+2026-02-08 23:18:26,778 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:18:27,924 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:18:27,932 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:18:27,932 - WARNING - Initiating bot restart...
+2026-02-08 23:18:27,956 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:18:30,637 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:18:33,639 - INFO - 🚀 Main execution block started.
+2026-02-08 23:18:33,640 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:18:34,448 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:18:34,463 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:18:34,463 - WARNING - Initiating bot restart...
+2026-02-08 23:18:34,477 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:18:37,160 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:18:40,161 - INFO - 🚀 Main execution block started.
+2026-02-08 23:18:40,161 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:18:41,013 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:18:41,026 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:18:41,027 - WARNING - Initiating bot restart...
+2026-02-08 23:18:41,035 - ERROR - Error during pre-restart cleanup: (pid=30967)
+2026-02-08 23:18:42,765 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:18:49,955 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:18:49,979 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5901
+ * Running on http://192.168.1.3:5901
+2026-02-08 23:18:49,980 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-08 23:18:52,957 - INFO - 🚀 Main execution block started.
+2026-02-08 23:18:52,957 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:18:53,777 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:18:53,788 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:18:53,789 - WARNING - Initiating bot restart...
+2026-02-08 23:18:53,796 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:18:54,960 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:18:57,961 - INFO - 🚀 Main execution block started.
+2026-02-08 23:18:57,962 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:18:58,731 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:18:58,738 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:18:58,739 - WARNING - Initiating bot restart...
+2026-02-08 23:18:58,744 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:18:59,833 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:19:02,834 - INFO - 🚀 Main execution block started.
+2026-02-08 23:19:02,835 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:19:03,772 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:19:03,779 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:19:03,779 - WARNING - Initiating bot restart...
+2026-02-08 23:19:03,784 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:19:04,704 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:19:07,705 - INFO - 🚀 Main execution block started.
+2026-02-08 23:19:07,705 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:19:08,602 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:19:08,609 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:19:08,609 - WARNING - Initiating bot restart...
+2026-02-08 23:19:08,615 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:19:09,493 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:19:12,493 - INFO - 🚀 Main execution block started.
+2026-02-08 23:19:12,494 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:19:13,326 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:19:13,333 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:19:13,333 - WARNING - Initiating bot restart...
+2026-02-08 23:19:13,337 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:19:14,221 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:19:17,222 - INFO - 🚀 Main execution block started.
+2026-02-08 23:19:17,222 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:19:18,071 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:19:18,079 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:19:18,079 - WARNING - Initiating bot restart...
+2026-02-08 23:19:18,083 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:19:19,140 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:19:22,142 - INFO - 🚀 Main execution block started.
+2026-02-08 23:19:22,142 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:19:22,911 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:19:22,919 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:19:22,920 - WARNING - Initiating bot restart...
+2026-02-08 23:19:22,924 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:19:24,541 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:19:27,542 - INFO - 🚀 Main execution block started.
+2026-02-08 23:19:27,542 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:19:28,285 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:19:28,292 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:19:28,293 - WARNING - Initiating bot restart...
+2026-02-08 23:19:28,297 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:19:29,342 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:19:32,343 - INFO - 🚀 Main execution block started.
+2026-02-08 23:19:32,345 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:19:33,225 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:19:33,242 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:19:33,248 - WARNING - Initiating bot restart...
+2026-02-08 23:19:33,259 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:19:34,309 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:19:37,310 - INFO - 🚀 Main execution block started.
+2026-02-08 23:19:37,311 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:19:38,115 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:19:38,140 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:19:38,141 - WARNING - Initiating bot restart...
+2026-02-08 23:19:38,151 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:19:39,580 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:19:42,580 - INFO - 🚀 Main execution block started.
+2026-02-08 23:19:42,581 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:19:43,415 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:19:43,421 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:19:43,421 - WARNING - Initiating bot restart...
+2026-02-08 23:19:43,425 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:19:44,348 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:19:47,349 - INFO - 🚀 Main execution block started.
+2026-02-08 23:19:47,350 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:19:48,141 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:19:48,154 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:19:48,155 - WARNING - Initiating bot restart...
+2026-02-08 23:19:48,162 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:19:49,045 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:19:52,047 - INFO - 🚀 Main execution block started.
+2026-02-08 23:19:52,047 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:19:52,843 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:19:52,849 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:19:52,850 - WARNING - Initiating bot restart...
+2026-02-08 23:19:52,854 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:19:53,765 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:19:56,767 - INFO - 🚀 Main execution block started.
+2026-02-08 23:19:56,767 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:19:57,583 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:19:57,610 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:19:57,611 - WARNING - Initiating bot restart...
+2026-02-08 23:19:57,622 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:19:58,885 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:20:01,886 - INFO - 🚀 Main execution block started.
+2026-02-08 23:20:01,886 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:20:02,564 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:20:02,570 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:20:02,571 - WARNING - Initiating bot restart...
+2026-02-08 23:20:02,575 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:20:04,001 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:20:07,002 - INFO - 🚀 Main execution block started.
+2026-02-08 23:20:07,002 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:20:09,162 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:20:09,169 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:20:09,169 - WARNING - Initiating bot restart...
+2026-02-08 23:20:09,174 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:20:11,123 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:20:14,123 - INFO - 🚀 Main execution block started.
+2026-02-08 23:20:14,124 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:20:15,654 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:20:15,661 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:20:15,661 - WARNING - Initiating bot restart...
+2026-02-08 23:20:15,666 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:20:17,118 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:20:20,119 - INFO - 🚀 Main execution block started.
+2026-02-08 23:20:20,120 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:20:21,455 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:20:21,462 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:20:21,462 - WARNING - Initiating bot restart...
+2026-02-08 23:20:21,466 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:20:22,369 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:20:25,370 - INFO - 🚀 Main execution block started.
+2026-02-08 23:20:25,370 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:20:26,727 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:20:26,745 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:20:26,746 - WARNING - Initiating bot restart...
+2026-02-08 23:20:26,752 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:20:27,877 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:20:30,878 - INFO - 🚀 Main execution block started.
+2026-02-08 23:20:30,878 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:20:32,374 - ERROR - Error in parse_my_message_login: Unexpected end-group tag.
+2026-02-08 23:20:32,381 - CRITICAL - Failed to get token data from guest_token. Restarting.
+2026-02-08 23:20:32,382 - WARNING - Initiating bot restart...
+2026-02-08 23:20:32,386 - ERROR - Error during pre-restart cleanup: (pid=797)
+2026-02-08 23:20:33,442 - INFO - 🚀 Starting Flask API Server...
+2026-02-08 23:20:36,445 - INFO - 🚀 Main execution block started.
+2026-02-08 23:20:36,445 - INFO - 🎮 Starting TCP client for ID: 4400521294
+2026-02-08 23:20:37,332 - INFO - ⚠️ Shutdown signal received. Exiting.
